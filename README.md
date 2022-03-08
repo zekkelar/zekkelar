@@ -1,4 +1,4 @@
-![Alt Text](https://c.tenor.com/G4kr-EuOh_wAAAAC/solo-leveling.gif)
+![Alt Text](https://c.tenor.com/kcJmQpS6eEsAAAAC/solo-leveling-sung.gif)
 
 ### Hi there 👋
 
