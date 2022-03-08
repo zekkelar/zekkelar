@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently Student in ...
-- 🌱 I’m currently learning Python, C#, Ruby
+- 🌱 I learn Python, C#, Ruby
 - 👯 I’m currently contribute on Moirai Project
 - ⚡ Fun fact: Solidwork Enthusiast | AutoCAD Enthusiast | Metallurgical
 
