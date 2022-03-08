@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently Student in ...
 - 🌱 I learn Python, C#, Ruby
-- 👯 I’m currently contribute on Moirai Project
+- 👯 Part of Morai project
 - ⚡ Fun fact: Solidwork Enthusiast | AutoCAD Enthusiast | Metallurgical
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ZekkelAR&show_icons=true&theme=radical)
