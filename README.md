@@ -2,7 +2,6 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently Student in PEP BANDUNG
 - 🌱 I learn Python, C#, Ruby
 - 👯 Part of Morai project
 - ⚡ Fun fact: Solidwork Enthusiast | AutoCAD Enthusiast | Metallurgical Engineering | Website Penetration Tester 
