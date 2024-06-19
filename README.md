@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
-- 🌱 I learn Python, C#, Ruby
+- 🌱 I learn Python, C#, Flutter
 - 👯 Part of Morai project
-- ⚡ Fun fact: Solidwork Enthusiast | AutoCAD Enthusiast | Metallurgical Engineering | Website Penetration Tester 
+- ⚡ Fun fact: Solidwork Enthusiast | AutoCAD Enthusiast | Metallurgical Engineering | Website Penetration Tester | Turbine Operator
  
 ![github stats](https://github-readme-stats.vercel.app/api?username=ZekkelAR&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=ZekkelAR&layout=compact&theme=nightowl)
