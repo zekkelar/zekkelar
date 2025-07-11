@@ -1,5 +1,3 @@
-![Alt Text](https://c.tenor.com/kcJmQpS6eEsAAAAC/solo-leveling-sung.gif)
-
 ### Hi there 👋
 
 - 🌱 I learn Python, C#, Flutter
